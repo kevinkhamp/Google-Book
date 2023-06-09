@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a program for a text editor that can be written in JavaScript.
+This is a program allows users to search for books via Google's Book Engine
 
 ## Visuals
 
@@ -17,10 +17,6 @@ https://github.com/shimpfierie/Google-Book
 Clone/fork the repo and deploy it in Heroku via connecting to your GitHub account. There is currently an issue with React Router that was posted yesterday. I do not know if that issue has been resolved or not. I cannot guarantee that it will deploy or not. Discretion is advised.
 
 Running via ```npm run develop``` is highly recommended.
-
-## Credits
-
-Credits to the mini project and stackoverflow. Stackoverflow has a thread regarding Babel's plugins that are needed: [Babel Error](https://stackoverflow.com/questions/56053090/babel-error-error-cannot-find-module-babel-plugin-transform-object-rest-spre). I think it is really imperative to have had this mentioned for deploying to Heroku.
 
 ## License
 
