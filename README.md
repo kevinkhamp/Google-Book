@@ -10,21 +10,11 @@ https://i-wish-i-was-at-google.herokuapp.com/
 
 ## Installation
 
-
+https://github.com/shimpfierie/Google-Book
 
 ## Usage
-Technologies used:
-```
-Node.js
-Express.js
-Heroku
-Babel
-Webpack
-MongoDB```
 
-Clone/fork the repo and deploy it in Heroku via connecting to your GitHub account. Deploy the main branch.
-
-Once in the text editor, click the ```Install``` in your browser's address bar and a separate window will pop up. Write to your heart's content.
+Clone/fork the repo and deploy it in Heroku via connecting to your GitHub account. There is currently an issue with React Router that was posted yesterday. I do not know if that issue has been resolved or not. I cannot guarantee that 
 
 ## Credits
 
